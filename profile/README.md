@@ -10,7 +10,7 @@ the repos will grouped by platform or by framework:
 ```
 "glue-todo-{platform}"
 or
-"glue-todo-{framework}
+"glue-todo-{framework}"
 
 like:
 glue-todo-android
